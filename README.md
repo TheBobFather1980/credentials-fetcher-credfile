@@ -15,7 +15,7 @@ On Enterprise Linux 9 ( RHEL | CentOS | AlmaLinux ), the binary can be installed
 Once EPEL is enabled, install credentials-fetcher with 
 `sudo dnf install credentials-fetcher`.
 
-For other linux distributions, the daemon binary needs to be built from source code.
+For other linux distributions, the daemon binary needs to be built from source code. 
 
 ## Development
 
