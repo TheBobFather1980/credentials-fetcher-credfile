@@ -1,4 +1,4 @@
-# Credentials Fetcher
+# Credentials Fetcher 
 
 `credentials-fetcher` is a Linux daemon that retrieves gMSA credentials from Active Directory over LDAP. It creates and refreshes kerberos tickets from gMSA credentials. Kerberos tickets can be used by containers to run apps/services that authenticate using Active Directory.
 
